@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "car-management-app-server",
   "version": "1.0.0",
   "description": "Car Management App Backend",
   "main": "index.js",
